@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Mobile app development
 - 💞️ I’m looking to collaborate on challenging projects that will have strong impact to the community
 - 📫 You can reach me via my contact number at 09072115582 or on my LinkedIn account at linkedin.com/in/jan-mykiel-agar-ece-ect-5a8458153
+- You can also visit my Youtube channel at https://www.youtube.com/channel/UCrFuLZjji6L_-wbVsE8WElw
 
 <!---
 JMA12/JMA12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
